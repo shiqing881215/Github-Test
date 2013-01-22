@@ -12,6 +12,9 @@ public class Test {
 		System.out.println(t2.j);
 		
         // Add this line just for github test
+        
+        
+        // In master, third test
 	}
 
 }
